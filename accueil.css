@@ -1,0 +1,177 @@
+.bloc1{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex;
+
+}
+.bloc1a1{
+    width:  45%;
+    height: 100%;
+}
+.bloc1a1 img{
+    width:  100%;
+    height: 100%;
+}
+.bloc1a{
+    width:  55%;
+    height: 100%;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+li a{
+    padding: 3px;
+    float: right;
+}
+.bloc2{
+    width: 98%;
+    height: 300px;
+    margin: 0 auto;
+    padding: 1%;
+
+}
+.bloc3{
+    width: 70%;
+    height: 150px;
+    margin: 0 auto;
+    padding: 5%;
+    display: flex;
+}
+.bloc3a{
+    width: 50%;
+    height: 150px;
+}
+.bloc4{
+    width: 98%;
+    height: 400px;
+    margin: 0 auto;
+    margin: 1%;
+    display: flex;
+}
+.bloc4a1{
+    width: 60%;
+    height: 100%;
+}
+.bloc4a1 img{
+    width: 50%;
+    height: 100%;
+}
+.bloc4a{
+    width: 40%;
+    height: 100%;
+}
+.bloc5{
+    width: 98%;
+    height: 400px;
+    margin: 0 auto;
+    padding: 1%;
+    background-image:url("/home/anta/Documents/projet  html/Background.png");
+    background-size: 100%;
+}
+.bloc5 img{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+.bloc6{
+    width: 80%;
+    height: 200px;
+    padding: 1%;
+    display: flex;
+}
+.bloc7{
+    width: 98%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 1%;
+}
+.bloc7 img{
+    width: 100%;
+    height: 200px;  
+}
+
+.bloc8{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 1%;
+    background-image: url("/home/anta/Documents/projet  html/Background(1).png");
+    background-size: 200%;
+}
+.bloc9{
+    width: 98%;
+    height: 150px;
+    margin: 0 auto;
+    padding: 1%;
+    background-image: url("/home/anta/Documents/projet  html/Footer.png");
+    background-size: 100%;
+
+}
+.photo img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.text1 span{
+    margin: 5px;
+    font-size: 25px;
+    background-color: orange;
+    border: rgba(3, 3, 255, 4);
+    text-align: center;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+.text1{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    font-family: agency fb;
+    text-align: left;
+}
+.bloc3a img{
+    width: 100%;
+    height: 100%;
+}
+.bloc4a span{
+    margin: 5px;
+    font-size: 25px;
+    background-color: rgb(50, 40, 59);
+    border: rgba(3, 3, 255, 4);
+    text-align: center;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+.bloc4a h2{
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+    right: 5%;
+    text-align: right;
+}
+.bloc4a span{
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+    right: 5%;
+    text-align: right;
+}
+.bloc6a1{
+    height: 100%;
+    width: 60%;
+}
+.bloc6a1 img{
+    height: 100%;
+    width: 60%;
+}
+.bloc6a{
+    height: 100%;
+    width: 40%;
+}

@@ -1,0 +1,91 @@
+
+.bloc22{
+    width: 98%;
+    height: 250px;
+    margin: 0 auto;
+    padding: 1%;
+}
+.bloc22 img{
+    width: 100%;
+    height: 100%;
+}
+.bloc32{
+    width: 98%;
+    height: 800px;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex;
+}
+.bloc32a {
+    width: 25%;
+    height: 100%;
+}
+.bloc32a1 {
+    width: 50%;
+    height: 100%;
+}
+.bloc32a1 img{
+    width: 100%;
+    height: 70%;
+}
+.bloc32a1 h2{
+margin-left:20%;
+}
+.bloc32a1 span{
+    margin-left: 40%;
+    font-size: 15px;
+    border: 2px solid black;
+    text-align: center;
+    color: black;
+    padding: 5px;
+    cursor: pointer;
+    }
+.bloc42{
+    width: 98%;
+    height: 450px;
+    margin: 0 auto;
+    margin: 1%;
+
+}
+.bloc42 img{
+    width: 100%;
+    height: 100%; 
+}
+.bloc9{
+    width: 98%;
+    height: 150px;
+    margin: 0 auto;
+    padding: 1%;
+    background-image: url("/home/anta/Documents/projet  html/Footer(2).png");
+    background-size: 100%;
+}
+.bloc1{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex;
+
+}
+.bloc1a1{
+    width:  45%;
+    height: 100%;
+}
+.bloc1a1 img{
+    width:  100%;
+    height: 100%;
+}
+.bloc1a{
+    width:  55%;
+    height: 100%;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+li a{
+    padding: 3px;
+    float: right;
+}

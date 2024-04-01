@@ -1,0 +1,98 @@
+.bloc23{
+    width: 98%;
+    height: 300px;
+    margin: 0 auto;
+    padding: 1%;
+}
+.bloc23 img{
+    width: 100%;
+    height: 100%;
+}
+.bloc33{
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex;
+}
+.bloc33a1{
+    width: 48%;
+    height: 100%;
+    margin: 1%;
+}
+.bloc33a1 img{
+    width: 100%;
+    height: 100%;  
+}
+.bloc33a{
+    width: 48%;
+    height: 100%;
+    margin: 1%;
+}
+.bloc33a img{
+    width: 100%;
+    height: 25%;  
+}
+.bloc43{
+    width: 90%;
+    height: 600px;
+    margin: 0 auto;
+    margin: 1%;
+}
+.bloc43 img{
+    width: 100%;
+    height: 100%; 
+}
+.bloc53{
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    padding: 1%;
+}
+.bloc1{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex;
+
+}
+.bloc1a1{
+    width:  45%;
+    height: 100%;
+}
+.bloc1a1 img{
+    width:  100%;
+    height: 100%;
+}
+.bloc1a{
+    width:  55%;
+    height: 100%;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+li a{
+    padding: 3px;
+    float: right;
+}
+.bloc8{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 1%;
+    background-image: url("/home/anta/Documents/projet  html/Image(6).png");
+    background-size: 200%;
+}
+.bloc9{
+    width: 98%;
+    height: 150px;
+    margin: 0 auto;
+    padding: 1%;
+    background-image: url("/home/anta/Documents/projet  html/Footer(2).png");
+    background-size: 100%;
+}
